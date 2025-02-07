@@ -10,9 +10,9 @@ then just unzip chromeExtension.zip and drag folder onto the page and ur good
 
 # How to avoid being AFK-kicked
 press ctrl + shift + i, press console tab at top and paste the stuff below in and obviously press enter
-```
+```ň
 function lol() {
-document.getElementById("btn-footer-MY_PROGRESS").click()
+document.getElementById("btn-footer-MY_PROGRESS").click(). i ready hacks to safari./n
 document.getElementById("btn-footer-TO_DO").click()
 setTimeout(() => lol(), 60000);
 }
@@ -26,3 +26,4 @@ A bookmarklet can be used instead of the chrome extension, incase your school ha
 # Extra
 
 credit to ArjhanToteck for originally making this but since his got deleted and he never updated anyways i decided to steal it
+I/READY
